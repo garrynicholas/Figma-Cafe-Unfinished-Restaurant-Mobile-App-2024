@@ -76,14 +76,14 @@ Explore the app to see the implemented features and UI designs. Note that some f
 - Homepage: Main food list page for users.
 - Food Details: Detailed view of food items.
 - Profile:
-> Edit Account
-> Address
-> Change Address
+-- Edit Account
+2. Address
+3. Change Address
 - Payment:
-> Choose Type Payment (Indomaret, Alfamaret, Seabank, OVO)
-> Add Balance Details
-> Confirm Balance Payment
-> Authenticate (Provide Authentication Code to chosen payment method, with a waiting period of 24 hours)
+1. Choose Type Payment (Indomaret, Alfamaret, Seabank, OVO)
+2. Add Balance Details
+3. Confirm Balance Payment
+4. Authenticate (Provide Authentication Code to chosen payment method, with a waiting period of 24 hours)
 - Cart Order: Manage food orders in the cart.
 - Reservation Order: Place reservations.
 - Success Order: Order confirmation (Wait 5 minutes for acceptance by Cashier).
@@ -93,18 +93,18 @@ Explore the app to see the implemented features and UI designs. Note that some f
 - Choose Role: Select role (Admin/Cashier).
 - Login Admin: Login using Email, Password, and Restaurant Code.
 - Dashboard:
-> Customer Data
-> Cashier Data
-> Add Cashier Data
-> Chat from Cashier Contact
+1. Customer Data
+2. Cashier Data
+3. Add Cashier Data
+4. Chat from Cashier Contact
 3. Cashier
 - Auth Workspace: Authenticate to enter Figma Workspace for Admin and Cashier.
 - Choose Role: Select role (Admin/Cashier).
 - Login Cashier: Login using Email, Password, and Restaurant Code.
 - Dashboard:
-> Customer Order
-> F&B Manager
-> Admin Contact (Support for Cashier issues)
+1. Customer Order
+2. F&B Manager
+3. Admin Contact (Support for Cashier issues)
 
 <b>Contributing</b>
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.

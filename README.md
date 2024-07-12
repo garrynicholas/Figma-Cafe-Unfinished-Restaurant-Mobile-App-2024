@@ -40,24 +40,25 @@ To run this project locally, follow these steps:
 5. Run the code
 
 <b>Pubspec Requirements</b>
+
 dependencies:
-  autocomplete_textfield: ^2.0.1
-  carousel_slider: ^4.2.1
-  cloud_firestore: ^4.13.0
-  cupertino_icons: ^1.0.2
-  dio: ^5.3.3
-  firebase_auth: ^4.13.0
-  firebase_core: ^2.22.0
-  flutter:
-    sdk: flutter
-  image_picker: ^1.0.7
-  intl: ^0.18.1
-  mime: ^1.0.4
-  provider: ^6.1.1
-  rename: ^3.0.1
-  shared_preferences: ^2.2.2
-  slide_countdown: ^1.5.0
-  video_player: ^2.8.2
+- autocomplete_textfield: ^2.0.1
+- carousel_slider: ^4.2.1
+- cloud_firestore: ^4.13.0
+- cupertino_icons: ^1.0.2
+- dio: ^5.3.3
+- firebase_auth: ^4.13.0
+- firebase_core: ^2.22.0
+- flutter:
+-   sdk: flutter
+- image_picker: ^1.0.7
+- intl: ^0.18.1
+- mime: ^1.0.4
+- provider: ^6.1.1
+- rename: ^3.0.1
+- shared_preferences: ^2.2.2
+- slide_countdown: ^1.5.0
+- video_player: ^2.8.2
 
 fonts:
     - family: Poppinsx

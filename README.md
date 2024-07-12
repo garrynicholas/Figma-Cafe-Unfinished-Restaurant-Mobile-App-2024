@@ -107,7 +107,9 @@ Explore the app to see the implemented features and UI designs. Note that some f
    - Admin Contact (Support for Cashier issues)
 
 <b>Contributing</b>
+
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 <b>Contact</b>
+
 If you have any questions or want to get in touch, you can reach me at widyagunawan3@gmail.com.

@@ -1,4 +1,4 @@
-# Figma-Cafe-Unfinished-Restaurant-Mobile-App-2024
+# Figma Cafe 2024 [Unfinished Restaurant Mobile App]
 This project is an unfinished restaurant mobile app developed using the Flutter framework in 2024. Despite my role as the team leader and efforts to support the team, it is still incomplete because the challenge with slow teamwork even helping and scolding them will not go well. Most of the progress was achieved by me, with some assistance from ChatGPT. Notable features include a working food ordering cart and good UI for pages like Food Details, Payment, and Add Balance.
 
 <b>Table of Contents</b>
